@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classifiers>
+	<classifier name="bagging">
+		<parameter>
+			<class>
+				 weka.classifiers.meta.Bagging
+			</class>
+			<options>
+				-W weka.classifiers.trees.NBTree
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="bagging">
+		<parameter>
+			<class>
+				 weka.classifiers.meta.Bagging
+			</class>
+			<options>
+				-W weka.classifiers.trees.ADTree
+			</options>
+		</parameter>
+	</classifier>
+	
+	<classifier name="bagging">
+		<parameter>
+			<class>
+				 weka.classifiers.meta.Bagging
+			</class>
+			<options>
+				-W weka.classifiers.trees.BFTree
+			</options>
+		</parameter>
+	</classifier>
+	
+	<classifier name="bagging">
+		<parameter>
+			<class>
+				 weka.classifiers.meta.Bagging
+			</class>
+			<options>
+				-W weka.classifiers.trees.DecisionStump
+			</options>
+		</parameter>
+	</classifier>
+	
+	<classifier name="bagging">
+		<parameter>
+			<class>
+				 weka.classifiers.meta.Bagging
+			</class>
+			<options>
+				-W weka.classifiers.trees.FT
+			</options>
+		</parameter>
+	</classifier>
+	
+	<classifier name="bagging">
+		<parameter>
+			<class>
+				 weka.classifiers.meta.Bagging
+			</class>
+			<options>
+				-W weka.classifiers.trees.J48
+			</options>
+		</parameter>
+	</classifier>
+	
+	<classifier name="bagging">
+		<parameter>
+			<class>
+				 weka.classifiers.meta.Bagging
+			</class>
+			<options>
+				-W weka.classifiers.trees.J48graft
+			</options>
+		</parameter>
+	</classifier>
+
+	<classifier name="bagging">
+		<parameter>
+			<class>
+				 weka.classifiers.meta.Bagging
+			</class>
+			<options>
+				-W weka.classifiers.trees.LADTree
+			</options>
+		</parameter>
+	</classifier>
+	
+	
+	<classifier name="bagging">
+		<parameter>
+			<class>
+				 weka.classifiers.meta.Bagging
+			</class>
+			<options>
+				-W weka.classifiers.trees.LMT
+			</options>
+		</parameter>
+	</classifier>
+	
+	
+	<classifier name="bagging">
+		<parameter>
+			<class>
+				 weka.classifiers.meta.Bagging
+			</class>
+			<options>
+				-W weka.classifiers.trees.NBTree
+			</options>
+		</parameter>
+	</classifier>
+	
+	<classifier name="bagging">
+		<parameter>
+			<class>
+				 weka.classifiers.meta.Bagging
+			</class>
+			<options>
+				-W weka.classifiers.trees.REPTree
+			</options>
+		</parameter>
+	</classifier>
+	
+	<classifier name="bagging">
+		<parameter>
+			<class>
+				 weka.classifiers.meta.Bagging
+			</class>
+			<options>
+				-W weka.classifiers.trees.SimpleCart
+			</options>
+		</parameter>
+	</classifier>
+</classifiers>

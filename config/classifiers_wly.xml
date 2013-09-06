@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<classifiers>
+	<classifier name="RandomTree">
+		<parameter>
+			<class>
+				weka.classifiers.trees.RandomTree
+			</class>
+			<options></options>
+			<CV></CV>
+		</parameter>
+	</classifier>
+	
+	<classifier name="RandomForest">
+		<parameter>
+			<class>
+				weka.classifiers.trees.RandomForest
+			</class>
+			<options></options>
+			<CV></CV>
+		</parameter>
+	</classifier>
+	
+	<classifier name="SMO">
+		<parameter>
+			<class>weka.classifiers.functions.SMO</class>
+			<options></options>
+			<CV></CV>
+		</parameter>
+	</classifier>
+	
+	<classifier name="DecisionStump">
+		<parameter>
+			<class>
+				weka.classifiers.trees.DecisionStump
+			</class>
+			<options></options>
+			<CV></CV>
+		</parameter>
+	</classifier>
+	
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options></options>
+			<CV></CV>
+		</parameter>
+	</classifier>
+</classifiers>

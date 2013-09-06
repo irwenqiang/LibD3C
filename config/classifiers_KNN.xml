@@ -1,0 +1,3003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classifiers>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 2
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 2
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 2
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 4
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 4
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 4
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 6
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 6
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 6
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 8
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 8
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 8
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 10
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 10
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 10
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 12
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 12
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 12
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 14
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 14
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 14
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 16
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 16
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 16
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 18
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 18
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 18
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 20
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 20
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 20
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 22
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 22
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 22
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 24
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 24
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 24
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 26
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 26
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 26
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 28
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 28
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 28
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 30
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 30
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 30
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 32
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 32
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 32
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 34
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 34
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 34
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 36
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 36
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 36
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 38
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 38
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 38
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 40
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 40
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 40
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 42
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 42
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 42
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 44
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 44
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 44
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 46
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 46
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 46
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 48
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 48
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 48
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 50
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 50
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 50
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 52
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 52
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 52
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 54
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 54
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 54
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 56
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 56
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 56
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 58
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 58
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 58
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 60
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 60
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 60
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 62
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 62
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 62
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 64
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 64
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 64
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 66
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 66
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 66
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 68
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 68
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 68
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 70
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 70
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 70
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 72
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 72
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 72
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 74
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 74
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 74
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 76
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 76
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 76
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 78
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 78
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 78
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 80
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 80
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 80
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 82
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 82
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 82
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 84
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 84
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 84
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 86
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 86
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 86
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 88
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 88
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 88
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 90
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 90
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 90
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 92
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 92
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 92
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 94
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 94
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 94
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 96
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 96
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 96
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 98
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 98
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 98
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 100
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 100
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 100
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 102
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 102
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 102
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 104
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 104
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 104
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 106
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 106
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 106
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 108
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 108
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 108
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 110
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 110
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 110
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 112
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 112
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 112
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 114
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 114
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 114
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 116
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 116
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 116
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 118
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 118
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 118
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 120
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 120
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 120
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 122
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 122
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 122
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 124
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 124
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 124
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 126
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 126
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 126
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 128
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 128
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 128
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 130
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 130
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 130
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 132
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 132
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 132
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 134
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 134
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 134
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 136
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 136
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 136
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 138
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 138
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 138
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 140
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 140
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 140
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 142
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 142
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 142
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 144
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 144
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 144
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 146
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 146
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 146
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 148
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 148
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 148
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 150
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 150
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 150
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 152
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 152
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 152
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 154
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 154
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 154
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 156
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 156
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 156
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 158
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 158
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 158
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 160
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 160
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 160
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 162
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 162
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 162
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 164
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 164
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 164
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 166
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 166
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 166
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 168
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 168
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 168
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 170
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 170
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 170
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 172
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 172
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 172
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 174
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 174
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 174
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 176
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 176
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 176
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 178
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 178
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 178
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 180
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 180
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 180
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 182
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 182
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 182
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 184
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 184
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 184
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 186
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 186
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 186
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 188
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 188
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 188
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 190
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 190
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 190
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 192
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 192
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 192
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 194
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 194
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 194
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 196
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 196
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 196
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 198
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 198
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 198
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				  -K 200
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -F -K 200
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="KNN">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>
+				 -I -K 200
+			</options>
+		</parameter>
+	</classifier>
+</classifiers>

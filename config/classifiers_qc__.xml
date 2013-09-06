@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<classifiers>
+	<classifier name="NNge">
+		<parameter>
+			<class>weka.classifiers.rules.NNge</class>
+			<options></options>
+			<CV></CV></parameter>
+	</classifier>
+	
+	<classifier name="J48graft">
+		<parameter>
+			<class>weka.classifiers.trees.J48graft</class>
+			<options></options>
+			<CV></CV></parameter>
+	</classifier>
+	
+	<classifier name="BFTree">
+		<parameter>
+			<class>weka.classifiers.trees.BFTree</class>
+			<options></options>
+			<CV></CV></parameter>
+	</classifier>
+	
+	<classifier name="IB5">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>-K 5</options>
+			<CV></CV></parameter>
+	</classifier>
+	
+	<classifier name="IB1">
+		<parameter>
+			<class>weka.classifiers.lazy.IBk</class>
+			<options>-K 1</options>
+			<CV></CV></parameter>
+	</classifier>
+	
+	<classifier name="REPTree">
+		<parameter>
+			<class>weka.classifiers.trees.REPTree</class>
+			<options></options>
+			<CV></CV>
+		</parameter>
+	</classifier>
+	
+	<classifier name="SimpleCart">
+		<parameter>
+			<class>weka.classifiers.trees.SimpleCart</class>
+			<options></options>
+			<CV></CV>
+		</parameter>
+	</classifier>
+	
+	<classifier name="DecisionTable">
+		<parameter>
+			<class>
+				weka.classifiers.rules.DecisionTable
+			</class>
+			<options></options>
+			<CV></CV>
+		</parameter>
+	</classifier>
+	
+	<classifier name="ConjunctiveRule">
+		<parameter>
+			<class>
+				weka.classifiers.rules.ConjunctiveRule
+			</class>
+			<options></options>
+			<CV></CV>
+		</parameter>
+	</classifier>
+	
+	<classifier name="PART">
+		<parameter>
+			<class>
+				weka.classifiers.rules.PART
+			</class>
+			<options></options>
+			<CV></CV>
+		</parameter>
+	</classifier>
+	
+	<classifier name="JRip">
+		<parameter>
+			<class>
+				weka.classifiers.rules.JRip
+			</class>
+			<options></options>
+			<CV></CV>
+		</parameter>
+	</classifier>
+	
+	<classifier name="IB15">
+		<parameter>
+			<class>
+				weka.classifiers.lazy.IBk
+			</class>
+			<options>-K 15</options>
+			<CV></CV></parameter>
+	</classifier>
+	
+	<classifier name="Ridor">
+		<parameter>
+			<class>
+				weka.classifiers.rules.Ridor
+			</class>
+			<options></options>
+			<CV></CV>
+		</parameter>
+	</classifier>
+	
+	<classifier name="ZeroR">
+		<parameter>
+			<class>
+				weka.classifiers.rules.ZeroR
+			</class>
+			<options></options>
+			<CV></CV>
+		</parameter>
+	</classifier>
+	
+	<classifier name="RandomTree">
+		<parameter>
+			<class>
+				weka.classifiers.trees.RandomTree
+			</class>
+			<options></options>
+			<CV></CV>
+		</parameter>
+	</classifier>
+	
+	<classifier name="RandomForest">
+		<parameter>
+			<class>
+				weka.classifiers.trees.RandomForest
+			</class>
+			<options></options>
+			<CV></CV>
+		</parameter>
+	</classifier>
+	
+	<classifier name="SMO">
+		<parameter>
+			<class>weka.classifiers.functions.SMO</class>
+			<options></options>
+			<CV></CV>
+		</parameter>
+	</classifier>
+	
+	<classifier name="DecisionStump">
+		<parameter>
+			<class>
+				weka.classifiers.trees.DecisionStump
+			</class>
+			<options></options>
+			<CV></CV>
+		</parameter>
+	</classifier>
+	
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options></options>
+			<CV></CV>
+		</parameter>
+	</classifier>
+</classifiers>

@@ -1,0 +1,3243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classifiers>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.1 -M 0.1 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.1 -M 0.2 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.1 -M 0.3 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.1 -M 0.4 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.1 -M 0.5 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.1 -M 0.6 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.1 -M 0.7 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.1 -M 0.8 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.1 -M 0.9 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.2 -M 0.1 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.2 -M 0.2 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.2 -M 0.3 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.2 -M 0.4 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.2 -M 0.5 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.2 -M 0.6 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.2 -M 0.7 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.2 -M 0.8 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.2 -M 0.9 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.3 -M 0.1 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.3 -M 0.2 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.3 -M 0.3 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.3 -M 0.4 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.3 -M 0.5 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.3 -M 0.6 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.3 -M 0.7 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.3 -M 0.8 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.3 -M 0.9 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.4 -M 0.1 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.4 -M 0.2 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.4 -M 0.3 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.4 -M 0.4 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.4 -M 0.5 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.4 -M 0.6 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.4 -M 0.7 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.4 -M 0.8 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.4 -M 0.9 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.5 -M 0.1 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.5 -M 0.2 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.5 -M 0.3 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.5 -M 0.4 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.5 -M 0.5 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.5 -M 0.6 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.5 -M 0.7 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.5 -M 0.8 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.5 -M 0.9 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.6 -M 0.1 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.6 -M 0.2 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.6 -M 0.3 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.6 -M 0.4 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.6 -M 0.5 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.6 -M 0.6 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.6 -M 0.7 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.6 -M 0.8 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.6 -M 0.9 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.7 -M 0.1 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.7 -M 0.2 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.7 -M 0.3 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.7 -M 0.4 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.7 -M 0.5 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.7 -M 0.6 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.7 -M 0.7 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.7 -M 0.8 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.7 -M 0.9 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.8 -M 0.1 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.8 -M 0.2 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.8 -M 0.3 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.8 -M 0.4 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.8 -M 0.5 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.8 -M 0.6 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.8 -M 0.7 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.8 -M 0.8 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.8 -M 0.9 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.9 -M 0.1 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.9 -M 0.2 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.9 -M 0.3 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.9 -M 0.4 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.9 -M 0.5 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.9 -M 0.6 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.9 -M 0.7 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.9 -M 0.8 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.9 -M 0.9 -H i
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.1 -M 0.1 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.1 -M 0.2 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.1 -M 0.3 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.1 -M 0.4 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.1 -M 0.5 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.1 -M 0.6 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.1 -M 0.7 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.1 -M 0.8 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.1 -M 0.9 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.2 -M 0.1 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.2 -M 0.2 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.2 -M 0.3 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.2 -M 0.4 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.2 -M 0.5 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.2 -M 0.6 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.2 -M 0.7 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.2 -M 0.8 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.2 -M 0.9 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.3 -M 0.1 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.3 -M 0.2 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.3 -M 0.3 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.3 -M 0.4 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.3 -M 0.5 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.3 -M 0.6 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.3 -M 0.7 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.3 -M 0.8 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.3 -M 0.9 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.4 -M 0.1 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.4 -M 0.2 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.4 -M 0.3 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.4 -M 0.4 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.4 -M 0.5 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.4 -M 0.6 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.4 -M 0.7 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.4 -M 0.8 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.4 -M 0.9 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.5 -M 0.1 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.5 -M 0.2 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.5 -M 0.3 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.5 -M 0.4 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.5 -M 0.5 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.5 -M 0.6 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.5 -M 0.7 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.5 -M 0.8 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.5 -M 0.9 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.6 -M 0.1 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.6 -M 0.2 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.6 -M 0.3 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.6 -M 0.4 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.6 -M 0.5 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.6 -M 0.6 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.6 -M 0.7 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.6 -M 0.8 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.6 -M 0.9 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.7 -M 0.1 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.7 -M 0.2 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.7 -M 0.3 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.7 -M 0.4 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.7 -M 0.5 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.7 -M 0.6 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.7 -M 0.7 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.7 -M 0.8 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.7 -M 0.9 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.8 -M 0.1 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.8 -M 0.2 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.8 -M 0.3 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.8 -M 0.4 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.8 -M 0.5 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.8 -M 0.6 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.8 -M 0.7 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.8 -M 0.8 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.8 -M 0.9 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.9 -M 0.1 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.9 -M 0.2 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.9 -M 0.3 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.9 -M 0.4 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.9 -M 0.5 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.9 -M 0.6 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.9 -M 0.7 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.9 -M 0.8 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.9 -M 0.9 -H a
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.1 -M 0.1 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.1 -M 0.2 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.1 -M 0.3 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.1 -M 0.4 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.1 -M 0.5 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.1 -M 0.6 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.1 -M 0.7 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.1 -M 0.8 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.1 -M 0.9 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.2 -M 0.1 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.2 -M 0.2 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.2 -M 0.3 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.2 -M 0.4 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.2 -M 0.5 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.2 -M 0.6 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.2 -M 0.7 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.2 -M 0.8 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.2 -M 0.9 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.3 -M 0.1 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.3 -M 0.2 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.3 -M 0.3 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.3 -M 0.4 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.3 -M 0.5 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.3 -M 0.6 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.3 -M 0.7 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.3 -M 0.8 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.3 -M 0.9 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.4 -M 0.1 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.4 -M 0.2 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.4 -M 0.3 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.4 -M 0.4 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.4 -M 0.5 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.4 -M 0.6 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.4 -M 0.7 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.4 -M 0.8 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.4 -M 0.9 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.5 -M 0.1 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.5 -M 0.2 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.5 -M 0.3 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.5 -M 0.4 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.5 -M 0.5 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.5 -M 0.6 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.5 -M 0.7 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.5 -M 0.8 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.5 -M 0.9 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.6 -M 0.1 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.6 -M 0.2 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.6 -M 0.3 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.6 -M 0.4 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.6 -M 0.5 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.6 -M 0.6 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.6 -M 0.7 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.6 -M 0.8 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.6 -M 0.9 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.7 -M 0.1 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.7 -M 0.2 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.7 -M 0.3 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.7 -M 0.4 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.7 -M 0.5 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.7 -M 0.6 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.7 -M 0.7 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.7 -M 0.8 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.7 -M 0.9 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.8 -M 0.1 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.8 -M 0.2 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.8 -M 0.3 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.8 -M 0.4 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.8 -M 0.5 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.8 -M 0.6 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.8 -M 0.7 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.8 -M 0.8 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.8 -M 0.9 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.9 -M 0.1 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.9 -M 0.2 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.9 -M 0.3 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.9 -M 0.4 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.9 -M 0.5 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.9 -M 0.6 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.9 -M 0.7 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.9 -M 0.8 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.9 -M 0.9 -H t
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.1 -M 0.1 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.1 -M 0.2 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.1 -M 0.3 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.1 -M 0.4 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.1 -M 0.5 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.1 -M 0.6 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.1 -M 0.7 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.1 -M 0.8 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.1 -M 0.9 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.2 -M 0.1 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.2 -M 0.2 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.2 -M 0.3 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.2 -M 0.4 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.2 -M 0.5 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.2 -M 0.6 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.2 -M 0.7 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.2 -M 0.8 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.2 -M 0.9 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.3 -M 0.1 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.3 -M 0.2 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.3 -M 0.3 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.3 -M 0.4 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.3 -M 0.5 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.3 -M 0.6 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.3 -M 0.7 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.3 -M 0.8 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.3 -M 0.9 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.4 -M 0.1 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.4 -M 0.2 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.4 -M 0.3 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.4 -M 0.4 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.4 -M 0.5 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.4 -M 0.6 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.4 -M 0.7 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.4 -M 0.8 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.4 -M 0.9 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.5 -M 0.1 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.5 -M 0.2 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.5 -M 0.3 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.5 -M 0.4 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.5 -M 0.5 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.5 -M 0.6 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.5 -M 0.7 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.5 -M 0.8 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.5 -M 0.9 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.6 -M 0.1 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.6 -M 0.2 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.6 -M 0.3 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.6 -M 0.4 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.6 -M 0.5 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.6 -M 0.6 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.6 -M 0.7 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.6 -M 0.8 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.6 -M 0.9 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.7 -M 0.1 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.7 -M 0.2 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.7 -M 0.3 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.7 -M 0.4 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.7 -M 0.5 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.7 -M 0.6 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.7 -M 0.7 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.7 -M 0.8 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.7 -M 0.9 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.8 -M 0.1 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.8 -M 0.2 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.8 -M 0.3 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.8 -M 0.4 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.8 -M 0.5 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.8 -M 0.6 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.8 -M 0.7 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.8 -M 0.8 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.8 -M 0.9 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.9 -M 0.1 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.9 -M 0.2 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.9 -M 0.3 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.9 -M 0.4 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.9 -M 0.5 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.9 -M 0.6 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.9 -M 0.7 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.9 -M 0.8 -H o
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="ANN">
+		<parameter>
+			<class>
+				weka.classifiers.functions.MultilayerPerceptron
+			</class>
+			<options>
+				-L 0.9 -M 0.9 -H o
+			</options>
+		</parameter>
+	</classifier>
+</classifiers>

@@ -1,0 +1,3603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classifiers>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.01 -M 2
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.01 -M 3
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.01 -M 4
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.01 -M 5
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.01 -M 6
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.01 -M 7
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.01 -M 8
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.01 -M 9
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.01 -M 10
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.01 -M 11
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.01 -M 12
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.01 -M 13
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.01 -M 14
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.01 -M 15
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.01 -M 16
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.01 -M 17
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.01 -M 18
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.01 -M 19
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.06 -M 2
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.06 -M 3
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.06 -M 4
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.06 -M 5
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.06 -M 6
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.06 -M 7
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.06 -M 8
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.06 -M 9
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.06 -M 10
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.06 -M 11
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.06 -M 12
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.06 -M 13
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.06 -M 14
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.06 -M 15
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.06 -M 16
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.06 -M 17
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.06 -M 18
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.06 -M 19
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.11 -M 2
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.11 -M 3
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.11 -M 4
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.11 -M 5
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.11 -M 6
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.11 -M 7
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.11 -M 8
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.11 -M 9
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.11 -M 10
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.11 -M 11
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.11 -M 12
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.11 -M 13
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.11 -M 14
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.11 -M 15
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.11 -M 16
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.11 -M 17
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.11 -M 18
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.11 -M 19
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.16 -M 2
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.16 -M 3
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.16 -M 4
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.16 -M 5
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.16 -M 6
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.16 -M 7
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.16 -M 8
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.16 -M 9
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.16 -M 10
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.16 -M 11
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.16 -M 12
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.16 -M 13
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.16 -M 14
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.16 -M 15
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.16 -M 16
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.16 -M 17
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.16 -M 18
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.16 -M 19
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.21 -M 2
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.21 -M 3
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.21 -M 4
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.21 -M 5
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.21 -M 6
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.21 -M 7
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.21 -M 8
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.21 -M 9
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.21 -M 10
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.21 -M 11
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.21 -M 12
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.21 -M 13
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.21 -M 14
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.21 -M 15
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.21 -M 16
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.21 -M 17
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.21 -M 18
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.21 -M 19
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.26 -M 2
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.26 -M 3
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.26 -M 4
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.26 -M 5
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.26 -M 6
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.26 -M 7
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.26 -M 8
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.26 -M 9
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.26 -M 10
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.26 -M 11
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.26 -M 12
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.26 -M 13
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.26 -M 14
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.26 -M 15
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.26 -M 16
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.26 -M 17
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.26 -M 18
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.26 -M 19
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.31 -M 2
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.31 -M 3
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.31 -M 4
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.31 -M 5
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.31 -M 6
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.31 -M 7
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.31 -M 8
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.31 -M 9
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.31 -M 10
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.31 -M 11
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.31 -M 12
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.31 -M 13
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.31 -M 14
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.31 -M 15
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.31 -M 16
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.31 -M 17
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.31 -M 18
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.31 -M 19
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.36 -M 2
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.36 -M 3
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.36 -M 4
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.36 -M 5
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.36 -M 6
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.36 -M 7
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.36 -M 8
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.36 -M 9
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.36 -M 10
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.36 -M 11
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.36 -M 12
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.36 -M 13
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.36 -M 14
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.36 -M 15
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.36 -M 16
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.36 -M 17
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.36 -M 18
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.36 -M 19
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.41 -M 2
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.41 -M 3
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.41 -M 4
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.41 -M 5
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.41 -M 6
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.41 -M 7
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.41 -M 8
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.41 -M 9
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.41 -M 10
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.41 -M 11
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.41 -M 12
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.41 -M 13
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.41 -M 14
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.41 -M 15
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.41 -M 16
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.41 -M 17
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.41 -M 18
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.41 -M 19
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.46 -M 2
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.46 -M 3
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.46 -M 4
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.46 -M 5
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.46 -M 6
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.46 -M 7
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.46 -M 8
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.46 -M 9
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.46 -M 10
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.46 -M 11
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.46 -M 12
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.46 -M 13
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.46 -M 14
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.46 -M 15
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.46 -M 16
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.46 -M 17
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.46 -M 18
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.46 -M 19
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.51 -M 2
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.51 -M 3
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.51 -M 4
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.51 -M 5
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.51 -M 6
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.51 -M 7
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.51 -M 8
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.51 -M 9
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.51 -M 10
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.51 -M 11
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.51 -M 12
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.51 -M 13
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.51 -M 14
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.51 -M 15
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.51 -M 16
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.51 -M 17
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.51 -M 18
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.51 -M 19
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.56 -M 2
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.56 -M 3
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.56 -M 4
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.56 -M 5
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.56 -M 6
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.56 -M 7
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.56 -M 8
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.56 -M 9
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.56 -M 10
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.56 -M 11
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.56 -M 12
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.56 -M 13
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.56 -M 14
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.56 -M 15
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.56 -M 16
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.56 -M 17
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.56 -M 18
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.56 -M 19
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.61 -M 2
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.61 -M 3
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.61 -M 4
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.61 -M 5
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.61 -M 6
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.61 -M 7
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.61 -M 8
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.61 -M 9
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.61 -M 10
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.61 -M 11
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.61 -M 12
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.61 -M 13
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.61 -M 14
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.61 -M 15
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.61 -M 16
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.61 -M 17
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.61 -M 18
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.61 -M 19
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.66 -M 2
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.66 -M 3
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.66 -M 4
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.66 -M 5
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.66 -M 6
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.66 -M 7
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.66 -M 8
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.66 -M 9
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.66 -M 10
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.66 -M 11
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.66 -M 12
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.66 -M 13
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.66 -M 14
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.66 -M 15
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.66 -M 16
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.66 -M 17
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.66 -M 18
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.66 -M 19
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.71 -M 2
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.71 -M 3
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.71 -M 4
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.71 -M 5
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.71 -M 6
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.71 -M 7
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.71 -M 8
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.71 -M 9
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.71 -M 10
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.71 -M 11
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.71 -M 12
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.71 -M 13
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.71 -M 14
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.71 -M 15
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.71 -M 16
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.71 -M 17
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.71 -M 18
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.71 -M 19
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.76 -M 2
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.76 -M 3
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.76 -M 4
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.76 -M 5
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.76 -M 6
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.76 -M 7
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.76 -M 8
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.76 -M 9
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.76 -M 10
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.76 -M 11
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.76 -M 12
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.76 -M 13
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.76 -M 14
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.76 -M 15
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.76 -M 16
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.76 -M 17
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.76 -M 18
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.76 -M 19
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.81 -M 2
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.81 -M 3
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.81 -M 4
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.81 -M 5
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.81 -M 6
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.81 -M 7
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.81 -M 8
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.81 -M 9
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.81 -M 10
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.81 -M 11
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.81 -M 12
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.81 -M 13
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.81 -M 14
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.81 -M 15
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.81 -M 16
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.81 -M 17
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.81 -M 18
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.81 -M 19
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.86 -M 2
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.86 -M 3
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.86 -M 4
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.86 -M 5
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.86 -M 6
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.86 -M 7
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.86 -M 8
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.86 -M 9
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.86 -M 10
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.86 -M 11
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.86 -M 12
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.86 -M 13
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.86 -M 14
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.86 -M 15
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.86 -M 16
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.86 -M 17
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.86 -M 18
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.86 -M 19
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.91 -M 2
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.91 -M 3
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.91 -M 4
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.91 -M 5
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.91 -M 6
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.91 -M 7
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.91 -M 8
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.91 -M 9
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.91 -M 10
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.91 -M 11
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.91 -M 12
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.91 -M 13
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.91 -M 14
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.91 -M 15
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.91 -M 16
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.91 -M 17
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.91 -M 18
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.91 -M 19
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.96 -M 2
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.96 -M 3
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.96 -M 4
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.96 -M 5
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.96 -M 6
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.96 -M 7
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.96 -M 8
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.96 -M 9
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.96 -M 10
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.96 -M 11
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.96 -M 12
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.96 -M 13
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.96 -M 14
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.96 -M 15
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.96 -M 16
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.96 -M 17
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.96 -M 18
+			</options>
+		</parameter>
+	</classifier>
+	<classifier name="J48">
+		<parameter>
+			<class>
+				weka.classifiers.trees.J48
+			</class>
+			<options>
+				-C 0.96 -M 19
+			</options>
+		</parameter>
+	</classifier>
+</classifiers>
